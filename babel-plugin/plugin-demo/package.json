@@ -1,0 +1,16 @@
+{
+  "name": "plugin-demo",
+  "version": "1.0.0",
+  "description": "本文主要有以下几个内容 - 为什么要实现一个插件 - 实现插件所需要的知识 - 如何去实现 - 业务中有可能需要用到的",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "babel src/ -d dist/"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/cli": "^7.13.10",
+    "@babel/core": "^7.13.10"
+  }
+}
