@@ -170,7 +170,7 @@ emmmm，想学习的深入些......
     }
   ```
   `t.conditionalExpression` 的 `ast` 效果
-  ![ast tree](https://raw.githubusercontent.com/estarsyang/ImgRep/main/babel/conditionalExpression-ast.png)
+  ![ast tree](https://raw.githubusercontent.com/estarsyang/ImgRep/main/babel/conditionalExpression-ast.png)   
   优化，其实我们可以用`babel`的`template`来优化下写法  [@babel/template](https://www.babeljs.cn/docs/babel-template)
   ```js
     t.UnaryExpression(
