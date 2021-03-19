@@ -92,7 +92,7 @@ emmmm，想学习的深入些......
       - 对生成的AST结构进行添加，更新及移除操作
     3. 生成(generator)
       - 把转换后的AST转换成字符串形式的代码，同时还会创建[源码映射(source)](https://www.html5rocks.com/en/tutorials/developertools/sourcemaps/)
-3. 要编译的内容转成浏览器兼容的是什么样的
+3. 要编译的内容转成浏览器兼容的是什么样的 [babel在线转换](https://www.babeljs.cn/)
   - 原写法
   ```js
     function demo(foo) {
